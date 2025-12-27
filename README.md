@@ -1,9 +1,4 @@
 ### Olá eu sou o Adriano Dantas😊
-
-
-![Adriano Dantas' GitHub stats](https://github-readme-stats.vercel.app/api?username=DantasDeveloperr&show_icons=true&theme=transparent) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DantasDeveloperr&layout=compact)
-
 ---
 
 ## Tecnologias do meu dia a dia 
