@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Adriano Dantas
+# Olá, eu sou Adriano Dantas 🫡
 
-💻 Desenvolvedor em formação | Estudante de Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor | Formado em Análise e Desenvolvimento de Sistemas
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, engenharia de software e Machine Learning, sempre buscando construir projetos que me permitam evoluir tecnicamente e contribuir com soluções reais.
 
@@ -8,10 +8,10 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software,
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📚 Pós-graduando em Engenharia de Machine Learning
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 📚 Cursando Pós-graduando em Engenharia de Machine Learning
 - 💡 Apaixonado por tecnologia e aprendizado contínuo
-- 🌱 Atualmente estudando JavaScript, React, Node.js, Python e Machine Learning
+- 🌱 Atualmente estudando Node.js, Python e Machine Learning
 - 🎯 Objetivo: atuar como Desenvolvedor de Software e evoluir para a área de Inteligência Artificial
 
 ---
@@ -81,9 +81,9 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software,
 
 ## 📫 Contato
 
-- 💼 LinkedIn:
-- 📧 E-mail:
-- 🌐 Portfólio:
+- 💼 LinkedIn: https://www.linkedin.com/in/adriano-dantass/
+- 📧 E-mail: adriianodantass17@gmail.com
+- 🌐 Portfólio: https://github.com/DantasDeveloperr?tab=stars
 
 ---
 
