@@ -61,10 +61,12 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software,
 
 ## 📌 Projetos
 
-- 🧮 Calculadora
-- 📱 Pokédex
-- 💻 Interfaces Responsivas
-- 🌐 Aplicações Web
+- 🧮 **Calculadora Web** – Operações matemáticas com interface interativa.
+- 📱 **Pokédex** – Consumo de API para exibição de informações dos Pokémon.
+- 🏦 **Sistema Bancário** – Gerenciamento de contas, depósitos, saques e transferências.
+- 🎓 **Sistema de Gerenciamento Escolar** – Cadastro de alunos, disciplinas, notas e boletins.
+- 💻 **Interfaces Responsivas** – Desenvolvimento de layouts adaptáveis para diferentes dispositivos.
+- 🌐 **Aplicações Web** – Projetos utilizando HTML, CSS, JavaScript e outras tecnologias.
 
 ---
 
