@@ -1,6 +1,6 @@
 # Olá, eu sou Adriano Dantas 🫡
 
-💻 Desenvolvedor | Cursando Pós-Graduação em Engenharia de Machine Learning
+💻 Desenvolvedor | Cursando Engenharia de Machine Learning
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, engenharia de software e Machine Learning, sempre buscando construir projetos que me permitam evoluir tecnicamente e contribuir com soluções reais.
 
