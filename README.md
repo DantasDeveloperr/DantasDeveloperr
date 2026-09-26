@@ -1,90 +1,130 @@
-# Olá, eu sou Adriano Dantas 🫡
 
-💻 Desenvolvedor | Cursando Engenharia de Machine Learning
+<h1 align="center">Olá, eu sou Adriano Dantas! 👋</h1>
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, engenharia de software e Machine Learning, sempre buscando construir projetos que me permitam evoluir tecnicamente e contribuir com soluções reais.
-
----
-
-## 🚀 Sobre mim
-
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 📚 Cursando Pós-graduando em Engenharia de Machine Learning
-- 💡 Apaixonado por tecnologia e aprendizado contínuo
-- 🌱 Atualmente estudando Node.js, Python e Machine Learning
-- 🎯 Objetivo: atuar como Desenvolvedor de Software e evoluir para a área de Inteligência Artificial
-
----
-
-## 🛠️ Tecnologias
-
-### 💻 Linguagens
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🌐 Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
----
-
-### ⚙️ Back-end
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-### 🗄️ Banco de Dados
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-### 🛠️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📌 Projetos
-
-- 🧮 **Calculadora Web** – Operações matemáticas com interface interativa.
-- 📱 **Pokédex** – Consumo de API para exibição de informações dos Pokémon.
-- 🏦 **Sistema Bancário** – Gerenciamento de contas, depósitos, saques e transferências.
-- 🎓 **Sistema de Gerenciamento Escolar** – Cadastro de alunos, disciplinas, notas e boletins.
-- 💻 **Interfaces Responsivas** – Desenvolvimento de layouts adaptáveis para diferentes dispositivos.
-- 🌐 **Aplicações Web** – Projetos utilizando HTML, CSS, JavaScript e outras tecnologias.
-
----
-
-## 📊 Estatísticas
+<h3 align="center">
+  Desenvolvedor Backend | Inteligência Artificial & Machine Learning
+</h3>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  Transformando ideias em soluções através do código.
+</p>
+
+<p align="center">
+  <a href="https://github.com/DantasDeveloperr">
+    <img src="https://img.shields.io/badge/GitHub-DantasDeveloperr-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# e .NET"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AI-Generative%20AI-8A2BE2?style=for-the-badge" alt="Inteligência Artificial"/>
 </p>
 
 ---
 
-## 📫 Contato
+## 👨‍💻 Sobre mim
 
-- 💼 LinkedIn: https://www.linkedin.com/in/adriano-dantass/
-- 📧 E-mail: adriianodantass17@gmail.com
-- 🌐 Portfólio: https://github.com/DantasDeveloperr?tab=stars
+Sou recém-formado em **Análise e Desenvolvimento de Sistemas**,
+atualmente cursando pós-graduação em **Engenharia de Machine Learning**.
+
+Tenho interesse em desenvolvimento backend, construção de APIs,
+bancos de dados e aplicações de Inteligência Artificial.
+
+Meu foco é transformar conhecimento em prática, desenvolvendo
+projetos que me desafiem a aprender novas tecnologias, resolver
+problemas e construir soluções funcionais.
+
+Atualmente, estou aprofundando meus conhecimentos em C#, .NET,
+Python, SQL e modelos de linguagem (LLMs).
 
 ---
 
-⭐ Sempre buscando aprender, desenvolver novas habilidades e criar soluções através da tecnologia.
+## 🚀 Projetos em Destaque
+
+### 🎓 GradeSystem
+**Sistema de Gerenciamento Acadêmico | C# · .NET 8**
+
+Sistema desenvolvido para o gerenciamento de alunos, turmas,
+disciplinas e notas, com regras de negócio para cálculo
+e classificação do desempenho acadêmico.
+
+**Principais tecnologias e conceitos:**
+- C# e .NET 8
+- ASP.NET Core e APIs REST
+- Entity Framework Core
+- SQL Server
+- Arquitetura em camadas
+- Persistência de dados e migrations
+
+🔗 **[Acessar repositório](https://github.com/DantasDeveloperr/GradeSystem)**
+
+---
+
+### 🤖 E-commerce AI Support Agent
+**Agente de Atendimento com Inteligência Artificial | Python · LLMs**
+
+Projeto pessoal voltado à aplicação de modelos de linguagem
+no atendimento ao cliente de um e-commerce.
+
+A aplicação utiliza o Google Gemini para receber perguntas
+e gerar respostas em linguagem natural, explorando a integração
+de LLMs em uma solução de software.
+
+**Principais tecnologias e conceitos:**
+- Python
+- Google Gemini API
+- Google GenAI SDK
+- Integração com APIs de IA
+- Variáveis de ambiente e gerenciamento de credenciais
+- Desenvolvimento de aplicações com LLMs
+
+🔗 **[Acessar repositório](https://github.com/DantasDeveloperr/e-commerce-ai-support-agent)**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,js,html,css,postgres,mysql,git,github,vscode,visualstudio" alt="Tecnologias e ferramentas"/>
+</p>
+
+**Backend:** C#, .NET, ASP.NET Core, Python  
+**Banco de dados:** SQL Server, PostgreSQL, MySQL  
+**IA:** Google Gemini, LLMs e IA generativa  
+**Ferramentas:** Git, GitHub, Visual Studio, VS Code
+
+---
+
+## 📚 Atualmente estudando
+
+- Engenharia de Machine Learning
+- Desenvolvimento de aplicações com LLMs
+- Arquitetura de software e APIs
+- Boas práticas de desenvolvimento backend
+- Inglês para tecnologia
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DantasDeveloperr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DantasDeveloperr&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+</p>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Estou aberto a oportunidades de estágio e posições
+juniores em desenvolvimento de software, backend e
+Inteligência Artificial.
+
+<p align="center">
+  <a href="https://github.com/DantasDeveloperr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- Adicione aqui seu LinkedIn e e-mail profissional -->
+</p>
+
+<p align="center">
+  <i>Sempre aprendendo. Sempre construindo. Sempre evoluindo. 🚀</i>
+</p>
